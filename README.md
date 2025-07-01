@@ -1,8 +1,8 @@
 # 👋
 Hey ! I am Noelle :3 ! \
-I'm 18 y.o and my pronouns are **she/her**.
+I'm 18 y.o. and my pronouns are **she/her**.
 
-I am a french 🇫🇷 student currently studying on Dijon, at the IUT of Dijon, learning Computer Science.
+I am a french 🇫🇷 student currently studying Computer Science at Iut of Dijon.
 
 I love to create tools, automating stuffs with code and modding some games !
 
@@ -10,7 +10,7 @@ There is nothing on this page for the moment, but I plan to work more on this in
 
 # I worked on
 [B.R.I.L](https://github.com/dept-info-iut-dijon/2024_S2-01_C2_BadassRetroInsaneLegends), a videogame project for school. \
-[AtmoHDRPack](https://github.com/ThatsNoelle/AtmoHDRPack), a Super Smash Bros. Ultimate modpack with Atmosphere and all you need to make it work (it's in french tho).
+[AtmoHDRPack](https://github.com/ThatsNoelle/AtmoHDRPack), a Super Smash Bros. Ultimate modpack with Atmosphere and all you need to make it work (French !).
 
 # I use
 - Languages
@@ -19,7 +19,7 @@ There is nothing on this page for the moment, but I plan to work more on this in
   * [HTML](https://developer.mozilla.org/fr/docs/Web/HTML)/[CSS](https://developer.mozilla.org/fr/docs/Web/CSS)
   * C# 
 
-- Softwares / IDEs
+- Softwares & IDEs
   * [Visual Studio Code](https://code.visualstudio.com/)
   * [Visual Studio](https://visualstudio.microsoft.com/fr/)
   * [HxD](https://mh-nexus.de/en/hxd/)

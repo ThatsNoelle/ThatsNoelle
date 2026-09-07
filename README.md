@@ -1,6 +1,6 @@
 # 👋
 Hey ! I am Noelle :3 ! \
-I'm 18 y.o. and my pronouns are **she/her**.
+I'm 19 y.o. and my pronouns are **she/her**.
 
 I am a french 🇫🇷 student currently studying Computer Science at Institute of Technology in Dijon.
 
